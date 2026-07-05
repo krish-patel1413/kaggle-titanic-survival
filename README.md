@@ -24,4 +24,4 @@ The goal of this project is to predict which passengers survived the Titanic shi
 * Handle missing numerical values in the `Age` column using median imputation.
 * Perform feature engineering to extract titles (Mr., Mrs., Miss) from passenger names.
 * Experiment with gradient boosting models like XGBoost or LightGBM.
-*
+
